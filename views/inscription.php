@@ -1,6 +1,4 @@
 <?php
-    require 'header.php';
-    require 'footer.php';
     require '../models/mod_ins.php';
 ?>
 
